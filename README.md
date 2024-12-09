@@ -1,11 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, Power BI, 
+#### Technical Skills: Python, SQL, R, Power BI
 
 
 ## About Me						       		
 I collaborate cross-functionally to build data-driven solutions using AI and machine learning.
-With over 4 years of experience in data-centric roles, I specialize in data science, statistics and data transformations.
+With over 4 years of experience in data-centric roles, I specialize in data science, statistics, and data transformations.
 Proficient in R, Python, MySQL, Postgres, and Power BI, my work consistently drives business growth 
 through data-driven insights and innovative solutions.
 In my spare time, I enjoy exploring the latest breakthroughs in AI and machine learning.
@@ -20,7 +20,7 @@ In my spare time, I enjoy exploring the latest breakthroughs in AI and machine l
 - Built a pipeline to predict lagged metrics using Neural Networks and gradient-boosting algorithms
     - Models forecasted 90-day revenue based on 3-day predictors with 85% accuracy after extensive hyperparameter tuning
 - Trained and onboarded 10+ new resources on 4 accounts across South America and Europe
-- Assigned additional responsibilities as a developer for Afiniti’s custom R-based modelling tool used companywide
+- Assigned additional responsibilities as a developer for Afiniti’s custom R-based modeling tool used companywide
     - New training and validation methodologies were incorporated into the pipeline, improving validation accuracy by 10%
 - Used Timeseries Analysis to predict the impact of football matches on caller behavior, model validations boosted by 2%
 
@@ -35,9 +35,9 @@ In my spare time, I enjoy exploring the latest breakthroughs in AI and machine l
 ### Sales Maturity Forecasting Pipeline
 **Domain: Predictive Analytics**\
 **Tech Stack: Python, R, PostgreSQL, RMarkdown, Plotly**
-- Developed a sales maturity forecasting pipeline to predict the likelihood of reversal of sales/cancellations within 30 days in a callcenter
-- Implemented tree-based (LGBM, XGBoost) regression models in python using a telco callcenters calls, outcome and CRM data
-- Created new customer history features to capture trends related to reversal of an outcome
+- Developed a sales maturity forecasting pipeline to predict the likelihood of reversal of sales/cancellations within 30 days in a call center
+- Implemented tree-based (LGBM, XGBoost) regression models in Python using a telco's call center calls, outcome, and CRM data
+- Created new customer history features to capture trends related to the reversal of an outcome
 - Model predicted a reversal with 90% accuracy
 - Used Airflow DAGs to deploy the model into production
 - Generated a daily RMarkdown report to evaluate model accuracy
