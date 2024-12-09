@@ -34,7 +34,7 @@ In my spare time, I enjoy exploring the latest breakthroughs in AI and machine l
 ## Projects
 ### Sales Maturity Forecasting Pipeline
 **Domain: Predictive Analytics**\
-**Tech Stack: Python, R, PostgreSQL, RMarkdown, Plotly**\
+**Tech Stack: Python, R, PostgreSQL, RMarkdown, Plotly**
 - Developed a sales maturity forecasting pipeline to predict the likelihood of reversal of sales/cancellations within 30 days in a callcenter
 - Implemented tree-based (LGBM, XGBoost) regression models in python using a telco callcenters calls, outcome and CRM data
 - Created new customer history features to capture trends related to reversal of an outcome
